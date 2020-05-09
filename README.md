@@ -1,6 +1,6 @@
-<p align="center"><h1> Diamonds Project</h1></p>
+<h1><p align="center"> Diamonds Project</p></h1>
 
-<h2> We participated in a Kaggle competition to prove some algorithms models to know which one would be te acurate.</h2>
+<h2> We participated in a Kaggle competition to prove some algorithms models to know which one would be the accurate one.</h2>
 
 
 
