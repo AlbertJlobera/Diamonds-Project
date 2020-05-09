@@ -46,6 +46,6 @@ giving more relevance to the most expensive features.</p>
 
 The main goal was to know which model gave us the lower RMSE and moved it to Kaggle competition.
 
-<p align="center"><h2>You may ask, What was my score?</h2></p>
+<h2><p align="center">You may ask, What was my score?</p></h2>
 
 <img src='https://github.com/AlbertJlobera/Diamonds-Project/blob/master/IMG/winkaggle.png?raw=true'>
